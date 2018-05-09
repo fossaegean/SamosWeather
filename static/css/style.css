@@ -1,0 +1,36 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+ 
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:700');
+
+body {
+  background-color: #EEE;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.fossaegean-blue-drk {
+  background-color: #003366;
+}
+
+.fossaegean-blue-text {
+  color: #29568D;
+}
+
+.fossaegean-logo {
+  font-family: 'Roboto Slab', serif;
+}
+
+.size-20 {
+  font-size: 20px;
+}
